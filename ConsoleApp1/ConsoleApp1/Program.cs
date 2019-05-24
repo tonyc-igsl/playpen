@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("approval and branch checks");
+            Console.WriteLine("pull request vs. approval");
         }
     }
 }
