@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("slack/github integration test");
+            Console.WriteLine("approval and branch checks");
         }
     }
 }
